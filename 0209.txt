@@ -105,6 +105,15 @@ git commit -m “(메세지 내용)”
 
 마지막으로 git push
 
+
+git reromte add + 깃허브 repo url : 특정한 원격 저장소 등록(깃허브 repo에)
+
+git remote -v:전체목록확인
+
+git remote rename '원래이름' '바꿀이름' : 원격 저장소 이름 바꾸기
+
+git remote rm temp :temp라는 원격 저장소 제거
+
 --
 
 
